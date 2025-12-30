@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Store:etc/config.xsd">
+    <default>
+        <payment>
+            <mellat>
+                <active>0</active>
+                <model>Caferobot\Mellat\Model\PaymentMethod</model>
+                <title>Mellat Bank</title>
+                <order_status>pending</order_status>
+                <success_order_status>processing</success_order_status>
+                <payment_action>authorize</payment_action>
+                <can_use_checkout>1</can_use_checkout>
+                <is_gateway>1</is_gateway>
+            </mellat>
+        </payment>
+    </default>
+</config>

@@ -1,0 +1,8 @@
+"Payment Successful. Ref: %1","پرداخت شما موفق بود. شناسه تراکنش: %1"
+"Order not found.","سفارش پیدا نشد."
+"Security Alert: Amount mismatch.","خطای امنیتی: مقادیر با هم اختلاف دارند."
+"No valid order found to process payment.","هیچ سفارشی برای پرداخت پیدا نشد."
+"Order validation time expired.","زمان پرداخت سفارش منقضی شده است"
+"Continue to Bank","ادامه پرداخت"
+"Error initiating payment. Resfreshing the page may fix it.","خطا در ارجاع به درگاه بانکی. رفرش کردن صفحه شاید مشکل را حل کند."
+"Bank Error Code: %1","خطای درگاه بانکی. کد خطا: %1"
