@@ -16,4 +16,5 @@ class PaymentMethod extends \Magento\Payment\Model\Method\AbstractMethod
     protected $_canRefund = true;
     protected $_canVoid = false;
     protected $_canUseInternal = false;
+    protected $_canRefundPartialPerInvoice = true;
 }
