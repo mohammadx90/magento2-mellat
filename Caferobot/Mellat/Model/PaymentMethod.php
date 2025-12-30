@@ -13,7 +13,7 @@ class PaymentMethod extends \Magento\Payment\Model\Method\AbstractMethod
     protected $_canOrder = true;
     protected $_canAuthorize = true;
     protected $_canCapture = true;
-    protected $_canRefund = false;
+    protected $_canRefund = true;
     protected $_canVoid = false;
     protected $_canUseInternal = false;
 }
